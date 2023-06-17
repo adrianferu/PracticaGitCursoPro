@@ -1,0 +1,17 @@
+Fecha: 17 de junio de 2023
+
+Recuerda que siempre debes inciar, en la terminal y ubicado dentro de la carpeta de trabajo, un repositorio de git:
+
+      git init          Y para asegurarte de que está creado correctamente, escribes en la terminal 
+      
+      ls -a             Te sirve para ver archivos ocultos. Deben haber archivos con extension .git 
+
+
+Usamos el comando     git status    para verificar el estado actual de los archivos. Recuerda que apenas crees un repo de git, todos
+los archivos estaránc omo untracked (unstaged). Para que pasen al estado stage (temporal y como commit) deben pasar por:
+
+    git add (para que pasen a estado staged,tracked, temporal)
+
+    git commit -m "<comentario commit>"     para que pasen a estado staged, tracked pero ya en Repositorio
+
+
