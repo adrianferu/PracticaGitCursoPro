@@ -18,3 +18,9 @@ los archivos estaránc omo untracked (unstaged). Para que pasen al estado stage 
     git commit -am "<comentario commit>"    Es una fusión entre los dos primeros. Te sirve para llevar los archivos de una a staged y luego a repositorio
 
 
+
+    Nota: Este es un comentario adicional que puse estando en la rama cabebecera. A menos de que haga"
+
+      git merge   desde la rama master, NO DEBERÍA por qué verlo estando situado dentrod e la rama Master
+
+
