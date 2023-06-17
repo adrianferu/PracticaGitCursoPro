@@ -15,3 +15,6 @@ los archivos estaránc omo untracked (unstaged). Para que pasen al estado stage 
     git commit -m "<comentario commit>"     para que pasen a estado staged, tracked pero ya en Repositorio
 
 
+    git commit -am "<comentario commit>"    Es una fusión entre los dos primeros. Te sirve para llevar los archivos de una a staged y luego a repositorio
+
+
