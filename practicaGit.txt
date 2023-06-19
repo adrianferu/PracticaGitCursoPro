@@ -24,3 +24,4 @@ los archivos estaránc omo untracked (unstaged). Para que pasen al estado stage 
       git merge   desde la rama master, NO DEBERÍA por qué verlo estando situado dentrod e la rama Master
 
 
+CAMBIOS EN EL BLOC DE NOTAS DESDE WSL. Veamos en si git bash me lo detecta
